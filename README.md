@@ -7,7 +7,7 @@ Repósitorio para estudo de lógica
 ![image](https://github.com/mathewsrc/logica_para_provas/assets/94936606/0bd6718a-5181-4e39-9e5b-110ecb1f0575)
 
 ```
-Assinale a alternativa que apresenta a negação de Todos os pães são recheados
+Assinale a alternativa que apresenta a negação de <Todos os pães são recheados>
 (A) Existem pães que não são recheados.
 (B) Nenhum pão é recheado.
 (C) Apenas um pão é recheado.

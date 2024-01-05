@@ -27,6 +27,7 @@ Assinale a alternativa que apresenta a negação de <Todos os pães são rechead
 ### Example
 ![image](https://github.com/mathewsrc/logica_para_provas/assets/94936606/31ce028f-ed52-403f-a5a7-f14ef03f641e)
 
+![image](https://github.com/mathewsrc/logica_para_provas/assets/94936606/370ba0ae-d595-4fa0-98c7-c5f9bd09e172)
 
 ### Questões
 ```

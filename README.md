@@ -1,5 +1,5 @@
 # logica_para_provas
-Repósitorio para estudo de lógica
+Repósitorio para com anotações sobre lógica matematica e exercícios de uso pessoal. 
 
 
 ## Lógica de Primeira Ordem

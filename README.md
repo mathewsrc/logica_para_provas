@@ -24,5 +24,24 @@ Assinale a alternativa que apresenta a negação de <Todos os pães são rechead
 
 ## Verdades e Mentiras
 
+### Example
 ![image](https://github.com/mathewsrc/logica_para_provas/assets/94936606/31ce028f-ed52-403f-a5a7-f14ef03f641e)
+
+
+### Questões
+```
+Alan, Beto, Caio e Décio são irmãos e foram interrogados 
+pela própria mãe para saber quem comeu, sem autorização, o chocolate que estava no armário. Sabese que apenas um dos quatro comeu o chocolate, e que os quatro irmãos sabem quem foi. A mãe 
+perguntou para cada um quem cometeu o ato, ao que recebeu as seguintes respostas:
+Alan diz que foi Beto;
+Beto diz que foi Caio;
+Caio diz que Beto mente;
+Décio diz que não foi ele.
+O irmão que fala a verdade e o irmão que comeu o chocolate são, respectivamente,
+(A) Beto e Décio.
+(B) Alan e Beto.
+(C) Beto e Caio.
+(D) Alan e Caio.
+(E) Caio e Décio.
+```
 

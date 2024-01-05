@@ -11,7 +11,7 @@ Repósitorio para estudo de lógica
 
 ![image](https://github.com/mathewsrc/logica_para_provas/assets/94936606/cdaa1978-9dd1-4b4c-9f2d-c8ea9d13963f)
 
-### Questões 
+### Question
 ```
 Assinale a alternativa que apresenta a negação de <Todos os pães são recheados>
 (A) Existem pães que não são recheados.
@@ -29,7 +29,7 @@ Assinale a alternativa que apresenta a negação de <Todos os pães são rechead
 
 ![image](https://github.com/mathewsrc/logica_para_provas/assets/94936606/370ba0ae-d595-4fa0-98c7-c5f9bd09e172)
 
-### Questões
+### Question
 ```
 Alan, Beto, Caio e Décio são irmãos e foram interrogados 
 pela própria mãe para saber quem comeu, sem autorização, o chocolate que estava no armário. Sabese que apenas um dos quatro comeu o chocolate, e que os quatro irmãos sabem quem foi. A mãe 
